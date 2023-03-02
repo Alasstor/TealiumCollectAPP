@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046545734296",
+    "project_id": "tealiumcollect",
+    "storage_bucket": "tealiumcollect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046545734296:android:3c374666722e575b40ceed",
+        "android_client_info": {
+          "package_name": "com.dpicallo.tealiumcollectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046545734296-q2a00le1r9cskgfba9v32elrsbv7m4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQaTn9-dtV6OWWT6xBSD1xQSPM5Xn-GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046545734296-q2a00le1r9cskgfba9v32elrsbv7m4aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
